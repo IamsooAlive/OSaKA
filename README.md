@@ -1,6 +1,6 @@
 # 🍣 Project OSaKA — Organised Serving and cooKing Application
 
-![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id-here/deploy-status)
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
